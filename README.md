@@ -1,7 +1,7 @@
 # Presentaciones-EcoYa
 
 Integrantes:
--Bastian Liempy
+-Bastian Liempi
 -Martina Iturrieta
 -Martin Lopez
 -Vicente Santin
